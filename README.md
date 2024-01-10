@@ -1,3 +1,7 @@
+
+XML PARA EXCEL
+
+
 Importa as bibliotecas necessárias: xmltodict, os e pandas.
 Define uma função chamada pegar_infos que recebe o nome de um arquivo XML e uma lista (valores) como argumentos. A função lê o arquivo XML, analisa seu conteúdo usando xmltodict e extrai informações específicas (como número da nota, empresa emissora, nome do cliente, endereço e peso). Essas informações são então adicionadas à lista valores.
 Obtém a lista de arquivos no diretório "nfs" usando os.listdir.
